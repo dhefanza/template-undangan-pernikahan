@@ -1,0 +1,58 @@
+/* .header {
+    background-image: url(../images/wall_header.jpg);
+    color: goldenrod;
+    font-family: Georgia, 'Times New Roman';
+    background-repeat: repeat-y;
+    padding-top: 250px;
+    padding-bottom: 250px;
+} */
+
+.bg-wallpaper {
+    width: 100%;
+    height: 100%;
+}
+
+.wallpaper {
+    background-color: #e6e6e6;
+}
+
+.wallpaper p {
+    font-family: 'Times New Roman', Times, serif;
+    color: #333399;
+}
+
+.nama {
+    font-family: 'Brush Script MT', cursive;
+    color: #FFD700;
+}
+
+.card-schedule {
+    font-size: 10pt;
+    border-radius: 0px !important;
+    border-right: 0px !important;
+    border-left: 0px !important;
+}
+
+.tgl {
+    font-size: 10pt;
+}
+
+.date {
+    font-size: 24pt;
+}
+
+.location {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #e6e6e6;
+    color: #333399;
+}
+
+.amplop-digital {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #e6e6e6;
+    color: #333399;
+}
+.copyright {
+    background-color: #333399;
+    color: white;
+}
